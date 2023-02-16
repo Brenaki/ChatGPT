@@ -7,9 +7,10 @@
 <div>
 
 <code>
-    import json
 
-    def main():
+     import json
+
+     def main():
         # Carrega o dicionário de palavras do arquivo JSON
         with open('dicionario.json', 'r') as f:
             dicionario = json.load(f)
