@@ -2,9 +2,9 @@
 
 <div>
   
-Para criar uma calculadora com uma interface gráfica em Python, podemos usar a biblioteca tkinter que já vem incluída na instalação padrão do Python. Essa biblioteca permite criar interfaces gráficas de usuário (GUI) facilmente.
+<p>Para criar uma calculadora com uma interface gráfica em Python, podemos usar a biblioteca tkinter que já vem incluída na instalação padrão do Python. Essa biblioteca permite criar interfaces gráficas de usuário (GUI) facilmente.<p>
 
-Aqui está um exemplo de código para criar uma calculadora básica com interface gráfica:
+<p>Aqui está um exemplo de código para criar uma calculadora básica com interface gráfica:<p>
 
   <div>
   <code>
@@ -69,7 +69,7 @@ Aqui está um exemplo de código para criar uma calculadora básica com interfac
 </code>
  </div>
   
-Explicação do código:
+<p>Explicação do código:<p>
 
 - Criamos uma classe Calculadora que define a interface gráfica da calculadora.<br>
 - No construtor da classe, criamos o display da calculadora
